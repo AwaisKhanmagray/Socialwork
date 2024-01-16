@@ -2,7 +2,7 @@ import React from 'react'
 
 function git() {
   return (
-    <div>git</div>
+    <div>git is good</div>
   )
 }
 
